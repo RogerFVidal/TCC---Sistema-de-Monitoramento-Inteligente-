@@ -13,8 +13,8 @@ from logs import registrar_log as registrar_log_arquivo
 
 # ==================== CONFIGURAÇÕES ====================
 
-CONFIANCA_DETECCAO = 0.45
-CONFIANCA_KEYPOINT = 0.25
+CONFIANCA_DETECCAO = 0.55
+CONFIANCA_KEYPOINT = 0.45
 
 ANGULO_SUSPEITO = 60.0
 ANGULO_ERETO = 30.0
