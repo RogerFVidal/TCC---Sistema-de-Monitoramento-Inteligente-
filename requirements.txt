@@ -1,0 +1,11 @@
+﻿
+# Modelo de visão computacional
+ultralytics>=8.3,<9
+
+# Captura e processamento de vídeo
+opencv-python>=4.10,<5
+
+# Interface gráfica
+customtkinter>=5.2,<6
+Pillow>=10,<13
+
